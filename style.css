@@ -1,0 +1,106 @@
+/* line 44, stdin */
+.affiliate-content[data-v-404e56e6] {
+	background-color: #F0F0F0;
+	display: inline-block;
+	text-align: left;
+	padding: 1.5rem;
+	width: 26rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	border-radius: 8px;
+	height: 52rem;
+}
+/* line 45, stdin */
+.affiliate-content .shop-button[data-v-404e56e6] {
+	width: 100%;
+	height: 3.1rem;
+}
+/* line 49, stdin */
+.affiliate-content .card-title[data-v-404e56e6] {
+	color: #000000;
+	font-weight: 500;
+	font-size: 1.71rem;
+}
+/* line 55, stdin */
+.affiliate-content .card-subtitle[data-v-404e56e6] {
+	color: #000000;
+	font-size: 1.1rem;
+	font-weight: 400;
+	margin-bottom: 0.9rem;
+}
+@media screen and (max-width: 768px) {
+	/* line 44, stdin */
+	.affiliate-content[data-v-404e56e6] {
+		display: block;
+		margin-top: 2rem;
+		width: auto;
+		height: auto;
+	}
+}
+/* line 79, stdin */
+.affiliate-content .video-container[data-v-404e56e6] {
+	height: 39rem;
+	position: relative;
+	margin-bottom: 0.8rem;
+}
+/* line 84, stdin */
+.affiliate-content .video-container video[data-v-404e56e6] {
+	min-width: 100%;
+	min-height: 100%;
+	volume: 0.2;
+	text-align: center;
+	width: auto;
+	height: 100%;
+}
+.dropdown-menu[data-v-404e56e6] {
+	display: none;
+	left: 0;
+	min-width: 12rem;
+	padding-top: 4px;
+	position: absolute;
+	top: 100%;
+	z-index: 20;
+}
+/* line 50, node_modules/bulma/sass/components/dropdown.sass */
+.dropdown-content[data-v-404e56e6] {
+	background-color: white;
+	border-radius: 0.42857rem;
+	box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
+}
+/* line 57, node_modules/bulma/sass/components/dropdown.sass */
+.dropdown-item[data-v-404e56e6], .dropdown .dropdown-menu .has-link a[data-v-404e56e6] {
+	color: #494949;
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.5;
+	padding: 0.375rem 1rem;
+	position: relative;
+}
+/* line 65, node_modules/bulma/sass/components/dropdown.sass */
+a.dropdown-item[data-v-404e56e6], .dropdown .dropdown-menu .has-link a[data-v-404e56e6],button.dropdown-item[data-v-404e56e6] {
+	padding-right: 3rem;
+	text-align: inherit;
+	white-space: nowrap;
+	width: 100%;
+}
+/* line 71, node_modules/bulma/sass/components/dropdown.sass */
+a.dropdown-item[data-v-404e56e6]:hover, .dropdown .dropdown-menu .has-link a[data-v-404e56e6]:hover,button.dropdown-item[data-v-404e56e6]:hover {
+	background-color: whitesmoke;
+	color: #0a0a0a;
+}
+/* line 74, node_modules/bulma/sass/components/dropdown.sass */
+a.dropdown-item.is-active[data-v-404e56e6], .dropdown .dropdown-menu .has-link a.is-active[data-v-404e56e6],button.dropdown-item.is-active[data-v-404e56e6] {
+	background-color: #191919;
+	color: #fff;
+}
+/* line 78, node_modules/bulma/sass/components/dropdown.sass */
+.dropdown-divider[data-v-404e56e6] {
+	background-color: #ededed;
+	border: none;
+	display: block;
+	height: 1px;
+	margin: 0.5rem 0;
+}
+}
